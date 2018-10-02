@@ -7,6 +7,7 @@ gem 'devise', '~> 3.4'
 gem 'milia', '~> 1.2.0'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
+gem 'bootstrap-datepicker-rails'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
